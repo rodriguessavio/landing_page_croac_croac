@@ -201,6 +201,10 @@ section {
     font-weight: 700;
 }
 
+.feature-card img{
+    border: 1px solid #000;
+    border-radius: 10px;
+}
 
 .cta-button-light i {
     margin-right: 8px; 
